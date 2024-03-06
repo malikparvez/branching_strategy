@@ -1,2 +1,3 @@
 # branching_strategy
+hotfix
 
