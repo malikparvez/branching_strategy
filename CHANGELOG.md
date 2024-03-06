@@ -5,7 +5,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
-## [v8.1.0](https://github.com/malikparvez/branching_strategy/tree/v8.1.0) - 2024-03-06
+## [v8.3.0](https://github.com/malikparvez/branching_strategy/tree/v8.3.0) - 2024-03-06
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v8.1.0...v8.3.0)
+
+## [v8.1.0](https://github.com/malikparvez/branching_strategy/tree/v8.1.0) - 2024-03-07
 
 [Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v7.0.0...v8.1.0)
 
@@ -46,4 +50,4 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ## [v1.0.1](https://github.com/malikparvez/branching_strategy/tree/v1.0.1) - 2024-03-05
 
-[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/77685dc5f6bf368ec70b871e1fa7d70d722778f6...v1.0.1)
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/2007a6f182877e342f94ef10080f199b004eafd7...v1.0.1)
