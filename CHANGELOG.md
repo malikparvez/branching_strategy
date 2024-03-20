@@ -5,6 +5,30 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
+## [v6.0.0](https://github.com/malikparvez/branching_strategy/tree/v6.0.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v5.1.0...v6.0.0)
+
+### Added
+
+- Create featurexx [#58](https://github.com/malikparvez/branching_strategy/pull/58) ([malikparvez](https://github.com/malikparvez))
+
+### Fixed
+
+- Create bug5x [#56](https://github.com/malikparvez/branching_strategy/pull/56) ([malikparvez](https://github.com/malikparvez))
+
+## [v5.1.0](https://github.com/malikparvez/branching_strategy/tree/v5.1.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v5.0.0...v5.1.0)
+
+### Added
+
+- Create feature19 [#54](https://github.com/malikparvez/branching_strategy/pull/54) ([malikparvez](https://github.com/malikparvez))
+
+### Fixed
+
+- Create bug5x [#56](https://github.com/malikparvez/branching_strategy/pull/56) ([malikparvez](https://github.com/malikparvez))
+
 ## [v5.0.0](https://github.com/malikparvez/branching_strategy/tree/v5.0.0) - 2024-03-20
 
 [Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v4.1.0...v5.0.0)
@@ -52,7 +76,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ## [v3.0.0](https://github.com/malikparvez/branching_strategy/tree/v3.0.0) - 2024-03-20
 
-[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.3.0...v3.0.0)
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.4.0...v3.0.0)
 
 ### Added
 
@@ -62,17 +86,17 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 - Create bug3.md [#41](https://github.com/malikparvez/branching_strategy/pull/41) ([malikparvez](https://github.com/malikparvez))
 
-## [v2.3.0](https://github.com/malikparvez/branching_strategy/tree/v2.3.0) - 2024-03-20
+## [v2.4.0](https://github.com/malikparvez/branching_strategy/tree/v2.4.0) - 2024-03-20
 
-[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.4.0...v2.3.0)
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.3.0...v2.4.0)
 
 ### Fixed
 
 - Create bug3.md [#41](https://github.com/malikparvez/branching_strategy/pull/41) ([malikparvez](https://github.com/malikparvez))
 
-## [v2.4.0](https://github.com/malikparvez/branching_strategy/tree/v2.4.0) - 2024-03-20
+## [v2.3.0](https://github.com/malikparvez/branching_strategy/tree/v2.3.0) - 2024-03-20
 
-[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.2.0...v2.4.0)
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.2.0...v2.3.0)
 
 ### Fixed
 
