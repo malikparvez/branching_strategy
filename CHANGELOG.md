@@ -5,6 +5,53 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
+## [v3.0.0](https://github.com/malikparvez/branching_strategy/tree/v3.0.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.3.0...v3.0.0)
+
+### Added
+
+- Create feature5.md [#45](https://github.com/malikparvez/branching_strategy/pull/45) ([malikparvez](https://github.com/malikparvez))
+
+### Fixed
+
+- Create bug3.md [#41](https://github.com/malikparvez/branching_strategy/pull/41) ([malikparvez](https://github.com/malikparvez))
+
+## [v2.3.0](https://github.com/malikparvez/branching_strategy/tree/v2.3.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.4.0...v2.3.0)
+
+### Fixed
+
+- Create bug3.md [#41](https://github.com/malikparvez/branching_strategy/pull/41) ([malikparvez](https://github.com/malikparvez))
+
+## [v2.4.0](https://github.com/malikparvez/branching_strategy/tree/v2.4.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.2.0...v2.4.0)
+
+### Fixed
+
+- Create bug3.md [#41](https://github.com/malikparvez/branching_strategy/pull/41) ([malikparvez](https://github.com/malikparvez))
+- Create bug2.md [#39](https://github.com/malikparvez/branching_strategy/pull/39) ([malikparvez](https://github.com/malikparvez))
+
+## [v2.2.0](https://github.com/malikparvez/branching_strategy/tree/v2.2.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.1.0...v2.2.0)
+
+### Fixed
+
+- Create bug2.md [#39](https://github.com/malikparvez/branching_strategy/pull/39) ([malikparvez](https://github.com/malikparvez))
+- Create v2_bug.md [#38](https://github.com/malikparvez/branching_strategy/pull/38) ([malikparvez](https://github.com/malikparvez))
+- Create v2_bug.md [#36](https://github.com/malikparvez/branching_strategy/pull/36) ([malikparvez](https://github.com/malikparvez))
+
+## [v2.1.0](https://github.com/malikparvez/branching_strategy/tree/v2.1.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.0.0...v2.1.0)
+
+### Added
+
+- Create feature3.md [#34](https://github.com/malikparvez/branching_strategy/pull/34) ([malikparvez](https://github.com/malikparvez))
+
 ## [v2.0.0](https://github.com/malikparvez/branching_strategy/tree/v2.0.0) - 2024-03-20
 
 [Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v1.0.0...v2.0.0)
