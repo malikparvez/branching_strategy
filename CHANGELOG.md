@@ -5,6 +5,42 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
+## [v9.0.0](https://github.com/malikparvez/branching_strategy/tree/v9.0.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v8.3.0...v9.0.0)
+
+### Fixed
+
+- Create bug8.9x [#67](https://github.com/malikparvez/branching_strategy/pull/67) ([malikparvez](https://github.com/malikparvez))
+
+## [v8.3.0](https://github.com/malikparvez/branching_strategy/tree/v8.3.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v8.2.0...v8.3.0)
+
+### Fixed
+
+- Create bug8.9x [#67](https://github.com/malikparvez/branching_strategy/pull/67) ([malikparvez](https://github.com/malikparvez))
+
+## [v8.2.0](https://github.com/malikparvez/branching_strategy/tree/v8.2.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v8.1.0...v8.2.0)
+
+### Added
+
+- Create feature8x [#62](https://github.com/malikparvez/branching_strategy/pull/62) ([malikparvez](https://github.com/malikparvez))
+
+### Fixed
+
+- Create bug8x [#65](https://github.com/malikparvez/branching_strategy/pull/65) ([malikparvez](https://github.com/malikparvez))
+
+## [v8.1.0](https://github.com/malikparvez/branching_strategy/tree/v8.1.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v8.0.0...v8.1.0)
+
+### Added
+
+- Create feature8x [#62](https://github.com/malikparvez/branching_strategy/pull/62) ([malikparvez](https://github.com/malikparvez))
+
 ## [v8.0.0](https://github.com/malikparvez/branching_strategy/tree/v8.0.0) - 2024-03-20
 
 [Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v7.1.0...v8.0.0)
