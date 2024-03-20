@@ -5,6 +5,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](http://semver.org).
 
+## [v4.0.0](https://github.com/malikparvez/branching_strategy/tree/v4.0.0) - 2024-03-20
+
+[Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v3.0.0...v4.0.0)
+
+### Added
+
+- Create f4 [#83](https://github.com/malikparvez/branching_strategy/pull/83) ([malikparvez](https://github.com/malikparvez))
+- Create f3 [#81](https://github.com/malikparvez/branching_strategy/pull/81) ([malikparvez](https://github.com/malikparvez))
+
 ## [v3.0.0](https://github.com/malikparvez/branching_strategy/tree/v3.0.0) - 2024-03-20
 
 [Full Changelog](https://github.com/malikparvez/branching_strategy/compare/v2.0.0...v3.0.0)
